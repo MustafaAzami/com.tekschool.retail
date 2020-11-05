@@ -26,11 +26,11 @@ public class DataBaseUtility {
 
 	// JDBC URL and this url will connect framework or java classes to DB
 	// Syntax for postgresql: jdbc:postgresql://host:port/databasaeName
-	private static String url = "jdbc:postgresql://localhost:5432/dvdrental";
+	private static String url = "jdbc:postgresql://localhost:5432/dvdrental2";
 	// userName for DB
 	private static String userName = "postgres";
 	// pasword for DB
-	private static String password = "root"; // please provide password that u setup
+	private static String password = "sdet"; // please provide password that u setup
 
 	/**
 	 * This Method will establish a connection between Java and DB using obj of

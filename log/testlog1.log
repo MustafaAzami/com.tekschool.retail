@@ -218,3 +218,83 @@
 2020-10-21 20:01:22,195 [main] INFO logger_File - ResultSet is stored in csv file in outcome folder
 2020-10-21 20:01:22,196 [main] INFO logger_File - DataBase connection has been closed
 2020-10-21 20:01:22,770 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-11-01 21:44:10,411 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-11-01 21:44:18,838 [main] INFO logger_File - Connection has been established
+2020-11-01 21:44:18,940 [main] INFO logger_File - select * from public.actor : has been executed
+2020-11-01 21:44:19,013 [main] INFO logger_File - ResultSet is stored in csv file in outcome folder
+2020-11-01 21:44:19,015 [main] INFO logger_File - DataBase connection has been closed
+2020-11-01 21:44:19,837 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-11-01 22:04:05,336 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-11-01 22:04:13,279 [main] INFO logger_File - Connection has been established
+2020-11-01 22:04:13,323 [main] INFO logger_File - select * from public.actor : has been executed
+2020-11-01 22:04:13,372 [main] INFO logger_File - ResultSet is stored in csv file in outcome folder
+2020-11-01 22:04:13,374 [main] INFO logger_File - DataBase connection has been closed
+2020-11-01 22:04:14,189 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-11-01 22:10:50,851 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-11-01 22:10:58,483 [main] INFO logger_File - Connection has been established
+2020-11-01 22:10:58,601 [main] INFO logger_File - select * from public.actor : has been executed
+2020-11-01 22:10:58,671 [main] INFO logger_File - ResultSet is stored in csv file in outcome folder
+2020-11-01 22:10:58,672 [main] INFO logger_File - DataBase connection has been closed
+2020-11-01 22:10:59,617 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-11-02 13:00:48,845 [main] INFO logger_File - Scenario Execute all information from Actor Table Started 
+2020-11-02 13:00:55,591 [main] INFO logger_File - Connection has been established
+2020-11-02 13:00:55,677 [main] INFO logger_File - select * from public.actor : has been executed
+2020-11-02 13:00:55,704 [main] INFO logger_File - ResultSet is stored in csv file in outcome folder
+2020-11-02 13:00:55,704 [main] INFO logger_File - DataBase connection has been closed
+2020-11-02 13:00:56,401 [main] INFO logger_File - Execute all information from Actor Table   passed
+2020-11-02 15:35:38,729 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 15:35:46,174 [main] INFO logger_File - Adding to WishList   undefined
+2020-11-02 16:04:48,003 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 16:04:57,572 [main] INFO logger_File - Retail page is opened
+2020-11-02 16:05:00,192 [main] INFO logger_File - Adding to WishList   failed
+2020-11-02 16:08:01,503 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 16:08:10,857 [main] INFO logger_File - Retail page is opened
+2020-11-02 16:08:15,495 [main] INFO logger_File - Adding to WishList   passed
+2020-11-02 16:21:27,466 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 16:21:37,451 [main] INFO logger_File - Retail page is opened
+2020-11-02 16:21:41,808 [main] INFO logger_File - Adding to WishList   undefined
+2020-11-02 16:23:30,491 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 16:23:39,694 [main] INFO logger_File - Retail page is opened
+2020-11-02 16:24:29,324 [main] INFO logger_File - Adding to WishList   failed
+2020-11-02 16:25:42,493 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 16:25:52,699 [main] INFO logger_File - Retail page is opened
+2020-11-02 16:26:41,498 [main] INFO logger_File - Adding to WishList   failed
+2020-11-02 16:55:49,370 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-02 16:56:02,136 [main] INFO logger_File - Retail page is opened
+2020-11-02 16:56:05,607 [main] INFO logger_File - Adding to WishList   passed
+2020-11-02 19:00:39,462 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 15:18:26,031 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 15:18:36,541 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:18:41,255 [main] INFO logger_File - Adding to WishList   undefined
+2020-11-03 15:23:48,374 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 15:23:58,072 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:24:02,843 [main] INFO logger_File - Adding to WishList   failed
+2020-11-03 15:39:27,549 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 15:39:38,194 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:40:27,661 [main] INFO logger_File - Adding to WishList   failed
+2020-11-03 15:45:57,699 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 15:46:07,197 [main] INFO logger_File - Retail page is opened
+2020-11-03 15:46:56,399 [main] INFO logger_File - Adding to WishList   failed
+2020-11-03 15:59:25,190 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 15:59:33,651 [main] INFO logger_File - Retail page is opened
+2020-11-03 16:00:20,311 [main] INFO logger_File - Adding to WishList   failed
+2020-11-03 16:25:42,205 [main] INFO logger_File - Scenario Login to MyAccount Started 
+2020-11-03 16:25:51,201 [main] INFO logger_File - Retail page is opened
+2020-11-03 16:25:51,212 [main] INFO logger_File - Page title  is verified
+2020-11-03 16:25:52,018 [main] INFO logger_File - User click on My Account
+2020-11-03 16:25:52,442 [main] INFO logger_File - User click on Login
+2020-11-03 16:25:55,896 [main] INFO logger_File - User enter email address
+2020-11-03 16:25:55,975 [main] INFO logger_File - User enter password
+2020-11-03 16:25:57,743 [main] INFO logger_File - User click on Login button
+2020-11-03 16:25:58,789 [main] INFO logger_File - Login to MyAccount   passed
+2020-11-03 16:29:40,524 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 16:29:48,989 [main] INFO logger_File - Retail page is opened
+2020-11-03 16:30:37,701 [main] INFO logger_File - Adding to WishList   failed
+2020-11-03 16:32:42,575 [main] INFO logger_File - Scenario Adding to WishList Started 
+2020-11-03 16:32:51,042 [main] INFO logger_File - Retail page is opened
+2020-11-03 16:33:38,977 [main] INFO logger_File - Adding to WishList   failed
+2020-11-03 22:13:06,255 [main] INFO logger_File - Scenario Adding product to Shopping Cart Started 
+2020-11-03 22:13:14,819 [main] INFO logger_File - Adding product to Shopping Cart   undefined
+2020-11-03 22:23:43,477 [main] INFO logger_File - Scenario Adding product to Shopping Cart Started 
+2020-11-03 22:23:55,517 [main] INFO logger_File - Retail page is opened
+2020-11-03 22:23:57,590 [main] INFO logger_File - Adding product to Shopping Cart   passed

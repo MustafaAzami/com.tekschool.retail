@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 6099468500,
+              "duration": 6726100100,
               "status": "passed"
             },
             "match": {
@@ -15,13 +15,13 @@
           }
         ],
         "line": 4,
-        "name": "Execute all information from Actor Table",
+        "name": "Adding product to Shopping Cart",
         "description": "",
-        "id": "database-sql-query-feature;execute-all-information-from-actor-table",
+        "id": "shopping-cart-scenarios;adding-product-to-shopping-cart",
         "after": [
           {
             "result": {
-              "duration": 573222700,
+              "duration": 682290700,
               "status": "passed"
             },
             "match": {
@@ -34,43 +34,73 @@
         "steps": [
           {
             "result": {
-              "duration": 115383500,
+              "duration": 5840953100,
               "status": "passed"
             },
             "line": 5,
-            "name": "User connects to PostgreSQL",
+            "name": "User is on test Envirnoment website",
             "match": {
-              "location": "SqlQueryStepDefinition.user_connects_to_PostgreSQL()"
+              "location": "AddProductToShoppingCart.user_is_on_test_Envirnoment_website()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 18833400,
+              "duration": 55266800,
               "status": "passed"
             },
             "line": 6,
-            "name": "User sends \"select * from public.actor\"",
+            "name": "User open desktop product menue",
             "match": {
-              "arguments": [
-                {
-                  "val": "select * from public.actor",
-                  "offset": 12
-                }
-              ],
-              "location": "SqlQueryStepDefinition.user_sends(String)"
+              "location": "AddProductToShoppingCart.user_open_desktop_product_menue()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 27707800,
+              "duration": 491304500,
               "status": "passed"
             },
             "line": 7,
-            "name": "User should get all information from that table",
+            "name": "User click on Mac product",
             "match": {
-              "location": "SqlQueryStepDefinition.user_should_get_all_information_from_that_table()"
+              "location": "AddProductToShoppingCart.user_click_on_Mac_product()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 55198900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User should see an Add To Cart button",
+            "match": {
+              "location": "AddProductToShoppingCart.user_should_see_an_Add_To_Cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 62483500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User click on Add To Cart Button",
+            "match": {
+              "location": "AddProductToShoppingCart.user_click_on_Add_To_Cart_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 246237600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User get A \u0027Success: You have added iMac to your shopping cart!\u0027",
+            "match": {
+              "location": "AddProductToShoppingCart.user_get_A_Success_You_have_added_iMac_to_your_shopping_cart()"
             },
             "keyword": "Then "
           }
@@ -78,15 +108,15 @@
         "tags": [
           {
             "line": 3,
-            "name": "@sqlquery"
+            "name": "@AddProduct"
           }
         ]
       }
     ],
-    "name": "Database SQL query feature",
+    "name": "Shopping Cart Scenarios",
     "description": "",
-    "id": "database-sql-query-feature",
+    "id": "shopping-cart-scenarios",
     "keyword": "Feature",
-    "uri": "Features/DataBaseFeature.feature"
+    "uri": "Features/AddProductToShoppingCart.feature"
   }
 ]

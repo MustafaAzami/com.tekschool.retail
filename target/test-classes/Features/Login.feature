@@ -35,23 +35,16 @@ Scenario Outline: Login to Retail Site with multiple users
 		|students@tekschool.us|TEST|
 		
 		
-		@logout @SmokeTest 
-		Scenario: Log  out from MyAccount 
+@logout @SmokeTest 
+Scenario: Log  out from MyAccount 
 		
-			When User click on Login 
-			And User enter username 'sdet@tekschool.us' and password 'sdet' 
-			And User click on Login button 
-			Then User should be logged in to MyAccount dashboard 
-			When User click  on MyAccount 
-			And  User click on Logout 
-			Then User Should be logged out from MyAccount dashboard 
+When User click on Login 
+And User enter username 'mustafa.ka.azami@gmail.com' and password 'Test@1234' 
+And User click on Login button 
+Then User should be logged in to MyAccount dashboard 
+When User click  on MyAccount 
+And  User click on Logout 
+Then User Should be logged out from MyAccount dashboard 
 			
 			
 			
-			
-			
-			
-			
-			
-			
-	

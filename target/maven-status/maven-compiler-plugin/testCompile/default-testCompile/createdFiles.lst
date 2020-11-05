@@ -1,3 +1,5 @@
 stepDefinitions\Initializer.class
+stepDefinitions\SqlQueryStepDefinition.class
 stepDefinitions\LoginTestStepDefinition.class
+stepDefinitions\RegisterFormStepDefinition.class
 runner\TestRunner.class
